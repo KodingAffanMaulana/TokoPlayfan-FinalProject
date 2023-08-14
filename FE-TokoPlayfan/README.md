@@ -1,7 +1,4 @@
-# Final Project Generasi Gigih
-
-Live Production
-[https://tokoplay-affan.netlify.app](https://tokoplay-affan.netlify.app)
+# Frontend TokoPlayfan
 
 ## TokoPlayfan
 
