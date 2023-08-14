@@ -4,7 +4,7 @@ Live [https://tokoplay-production.up.railway.app](https://tokoplay-production.up
 
 ## **API Structure**
 
-```
+```bash
 BE-TokoPlayfan/
 ├── app/
 │   ├── config/
@@ -646,7 +646,7 @@ After everything is installed
   Use the git clone command to clone the repository.
 
   ```bash
-  git clone https://github.com/KodingAffanMaulana/BE-TokoPlayfan.git
+  git clone git clone https://github.com/KodingAffanMaulana/TokoPlayfan-FinalProject.git
   ```
 
 - Navigate to the Project Directory: Change into the project directory by running:

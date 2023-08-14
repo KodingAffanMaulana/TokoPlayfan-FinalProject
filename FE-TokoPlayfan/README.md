@@ -9,35 +9,35 @@ The Tokoplayfan application is the final project built using the React library, 
 
 ## Features
 
-a. User can open, two page ( Home and Video Detail Page )  
-b. User can see video list with thumbnail from YouTube in home page  
-c. User can click each video and go to video detail page
-d. User can see list products, embed YouTube, list comment, and form submit comment  
-e. User just need input name and comment when submit comment in form  
-f. User can see their comment in list comment section after success submit comment  
-g. Attractive Appearance: This application displays an attractive and responsive user interface  
-h. Bonus Video Content Search: Users can easily search for their favorite video content using the integrated search feature. This helps users quickly find the videos they want.  
-i. Smooth Navigation: Thanks to the use of react-router-dom, the app provides smooth navigation between different pages, including video details and search pages.
+- User can open, two page ( Home and Video Detail Page )
+- User can see video list with thumbnail from YouTube in home page
+- User can click each video and go to video detail page
+- User can see list products, embed YouTube, list comment, and form submit comment
+- User just need input name and comment when submit comment in form
+- User can see their comment in list comment section after success submit comment
+- Attractive Appearance: This application displays an attractive and responsive user interface
+- Bonus Video Content Search: Users can easily search for their favorite video content using the integrated search feature. This helps users quickly find the videos they want.
+- Smooth Navigation: Thanks to the use of react-router-dom, the app provides smooth navigation between different pages, including video details and search pages.
 
 ## Technical Requirements
 
-a. API NodeJS: deploy with `Railway.app`  
-b. Database MongoDB: DB to support list API needed(with MongoDB)  
-c. React Hooks  
-d. Use React Router as router navigation between page
+- API NodeJS: deploy with `Railway.app`
+- Database MongoDB: DB to support list API needed(with MongoDB)
+- React Hooks
+- Use React Router as router navigation between page
 
 ## How to Install and Run
 
 Clone this repository with HTTPS in your terminal
 
 ```bash
-git clone https://github.com/KodingAffanMaulana/FE-TokoPlay.git
+git clone https://github.com/KodingAffanMaulana/TokoPlayfan-FinalProject.git
 ```
 
 Navigate to the app's directory:
 
 ```bash
-cd FE-TokoPlay
+cd FE-TokoPlayfan
 ```
 
 Install dependencies with npm, yarn, etc
@@ -51,6 +51,12 @@ Change REACT_APP_BASE_URL with
 
 ```bash
 https://tokoplay-production.up.railway.app
+```
+
+or
+
+```bash
+http://localhost:3000/
 ```
 
 This API is built from a mid term backend assignment with added responsiveness and features
