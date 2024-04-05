@@ -131,11 +131,11 @@ Base URL in LOCAL: `http://localhost:3000/`
 - Data Params Raw JSON :
 
   ```json
-    {
-      "username": "fathan",
-      "comment": "satusssdfdfgddcom",
-      "videoID": "1"
-    }
+  {
+    "username": "fathan",
+    "comment": "satusssdfdfgddcom",
+    "videoID": "1"
+  }
   ```
 
 - Headers : `Content-Type: application/json`
@@ -666,4 +666,5 @@ After everything is installed
 
 - After running `npm run dev` the database and collection will be created automatically but still empty or you can create `mongosh use YOUR_DB`
 
+- Paste dummy data to mongosh client (use db_name)
 - [DUMMY DATA](/assets/dummyDatabase.js)
